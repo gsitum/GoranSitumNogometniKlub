@@ -1,0 +1,5 @@
+﻿  igraci.c
+  main.c
+  Generating Code...
+C:\Users\Marija\source\repos\Project8\Project8\main.c(82,13): warning C4013: 'azurirajPozicijuIgraca' undefined; assuming extern returning int
+  Project8.vcxproj -> C:\Users\Marija\source\repos\Project8\x64\Debug\Project8.exe
